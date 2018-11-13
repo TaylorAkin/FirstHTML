@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+ }
+
+ #Header {
+    background-color: rgb(138, 197, 216);
+    color: black;
+    padding: 40px;
+}
+
+li a {color: white
+      
+}
+
+.city {
+    color: white;
+    padding: 20px;
+    font: 20px
+
+} 
+
+.nav {
+    background-color: rgb(61, 161, 207);
+    padding: 50px;
+    font: 100px
+}
+ 
+ nav ul li {
+    display: inline;
+    margin: 5.5rem;
+    color: rgb(235, 206, 45);
+ }
+ 
+
+
+ .white { color: white}
+
+ figure {
+    margin: 10px;
+ }
+ 
+ section {
+    background-color: #efefef;
+    width: 300px;
+    margin: 0 auto;
+ }
+ 
+ footer {
+    margin-bottom: 100px;
+ }
